@@ -30,9 +30,9 @@ After completing this lesson you should:
 
 ## Location and timings
 
-- Date: 22 October 2025
-- Time: 10:00-15:30 BST
-- Location: G08 Elm House, University of Birmingham, UK ([location](https://www.archer2.ac.uk/training/locations/birmingham.html))
+- Date: 26 February 2026
+- Time: 10:00-15:30 GMT
+- Location: Alan Turing Institute, British Library, London, UK ([location](https://www.archer2.ac.uk/training/locations/ati.html))
 - Instructor: Andy Turner, EPCC
 
 ## Schedule

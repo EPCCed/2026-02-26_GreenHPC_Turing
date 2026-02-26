@@ -29,6 +29,7 @@ We have now reached the end of the material for this workshop. In this section w
 
 - [Green SIG - Society of Research Software Engineering](https://socrse.github.io/green-sig/)
 - [NetDRIVE](https://eng.ox.ac.uk/netdrive/)
+- [Environmentally Sustainable Computational Science Forum](https://forum.escs-community.org/top?period=yearly)
 
 ## Sustainable research
 
